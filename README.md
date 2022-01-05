@@ -1,6 +1,6 @@
 # Portfolio Sale Insights
 
-Questions I answered by queries in mysql and building dashboard
+Questions I answered to build dashboard
 - Revenue break down by cities
 - Revenue break down by years and months
 - Show me top 5 customers by revenue and sales quantity
