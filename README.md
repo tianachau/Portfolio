@@ -11,3 +11,4 @@ Tool to be used: 1. MySQL Workbench   2. Tableau
 
 Techniques: 1. Data Extraction(ETL)   2. Data cleaning   3. Data Analysis   4. Data visualization
 
+<img src= "https://github.com/tianachau/Portfolio_Sale_Insights/blob/main/Visualization.png">
