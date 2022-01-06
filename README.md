@@ -12,8 +12,7 @@ Questions I answered to build dashboard
 
 **Skills needed to complete the job:** 1. Data Extraction(ETL)   2. Data cleaning   3. SQL query language   4. Data visualization
 
-Here some of the queries that help me to verify my Dashboard:
-https://github.com/tianachau/Portfolio_Sale_Insights/blob/main/portfolio_sale_insights_SQL_queries.sql
+Here some of the queries that help me to verify my Dashboard: https://github.com/tianachau/Portfolio_Sale_Insights/blob/main/portfolio_sale_insights_SQL_queries.sql
 
 **Final output:**
 
