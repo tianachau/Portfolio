@@ -16,5 +16,5 @@ Here some of the queries that help me to verify my Dashboard: https://github.com
 
 **Final output:**
 
-<img src= "https://github.com/tianachau/Portfolio_Sale_Insights/blob/main/Visualization.png">
+<img src= "https://github.com/tianachau/Portfolio_Sale_Insights/blob/main/visualization.png">
 
