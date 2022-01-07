@@ -1,4 +1,4 @@
-# Portfolio Sale Insights
+# Sale Insights
 Questions I answered to build dashboard
 1. Revenue by markets.
 2. Sales quantity by markets.
