@@ -1,6 +1,6 @@
 # Sale Insights
 
-Project descriptions: the project shows sale insights of Atliq Hardware in India. The company supplies hardware. My goal is to unlock Sales Insights that are not visible before for sales team for decision support & automate them to reduced time spend in data gathering.
+Project descriptions: the project shows sale insights of Atliq Hardware in India. My goal is to unlock Sales Insights that are not visible before for sales team for decision support & automate them to reduced time spend in data gathering.
 
 Questions I answered to build dashboar
 1. Revenue by markets.
